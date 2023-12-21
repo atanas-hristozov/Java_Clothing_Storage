@@ -1,36 +1,23 @@
-Clothing Warehouse
+# Clothing Warehouse
 
-You are a volunteer at the local clothing and shoe warehouse, whose purpose is to sort them and distribute them to people in need. As a programmer, you notice that there is room for optimization regarding gloves and shoes. You also decide to sort the list alphabetically.
+This program simulates a volunteer's task at a local clothing and shoe warehouse, aimed at sorting and distributing items to people in need. The optimization of gloves and shoes and the alphabetical sorting of the list are the key functionalities addressed in this code.
 
-Input data
-Read from the console.
-On the first line is the number N - number of input lines that will follow.
-On the next N number of lines will be the brand names.
+## Input Data
 
-Output data
-Print to the console.
-Print each unique mark on a new line in the following format:
-{brand} {quantities} {even number?}
+Reads from the console.
+- The first line contains the number N, indicating the number of input lines to follow.
+- The next N lines consist of brand names.
 
-See sample tests
-Limits
-1 <= N <= 1000
-Each name contains only letters and numbers.
-All brand names are unique.
+## Output Data
 
-Sample tests
-Input data
-6
-Hudson
-Nine West
-Elemis
-Imusa
-Tom Ford
-Nine West
+Prints to the console.
+- Prints each unique brand on a new line in the following format: `{brand} {quantities} {even number?}`
 
-Output data
-Elemis 1 No
-Hudson 1 No
-Imusa 1 No
-Nine West 2 Yes
-Tom Ford 1 No
+### Limits
+- 1 <= N <= 1000
+- Each name contains only letters and numbers.
+- All brand names are unique.
+
+## Sample Tests
+
+### Input
