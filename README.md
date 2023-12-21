@@ -1,4 +1,5 @@
 Clothing Warehouse
+
 You are a volunteer at the local clothing and shoe warehouse, whose purpose is to sort them and distribute them to people in need. As a programmer, you notice that there is room for optimization regarding gloves and shoes. You also decide to sort the list alphabetically.
 
 Input data
