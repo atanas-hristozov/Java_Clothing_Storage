@@ -21,3 +21,19 @@ Prints to the console.
 ## Sample Tests
 
 ### Input
+
+6
+Hudson
+Nine West
+Elemis
+Imusa
+Tom Ford
+Nine West
+
+### Output
+
+Elemis 1 No
+Hudson 1 No
+Imusa 1 No
+Nine West 2 Yes
+Tom Ford 1 No
